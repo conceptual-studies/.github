@@ -13,4 +13,4 @@ A world where every individual benefits from clear insights and sustainable solu
 ## Projects
 
 **[TIOCS](https://tiocs.io)** - The Institute of Conceptual Studies
-**[Daniel Grey](https://daniel-grey.io)** - Philosophical reflections
+**[Daniel Grey](https://www.daniel-grey.io)** - Philosophical reflections
