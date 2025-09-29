@@ -15,11 +15,10 @@ The Institute of Conceptual Studies (TIOCS) is a philosophical research platform
 
 **Our Motto:** *The Only Certainty is Uncertainty*
 
-## Related Repositories
+## Live Sites
 
-- **[tiocs-io](https://github.com/conceptual-studies/tiocs-io)** - Main TIOCS website and knowledge base
-- **[daniel-grey-io](https://github.com/conceptual-studies/daniel-grey-io)** - Personal philosophical blog
-- **[tiocs-theme](https://github.com/conceptual-studies/tiocs-theme)** - Shared MkDocs Material theme
+- **[tiocs.io](https://tiocs.io)** - Main TIOCS website and knowledge base
+- **[daniel-grey.io](https://daniel-grey.io)** - Personal philosophical blog
 
 ## Editing the Organization Profile
 

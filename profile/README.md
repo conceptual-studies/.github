@@ -60,15 +60,11 @@ Deep questions about knowledge, reality, existence, and the limits of understand
 
 ## 🏛️ Our Projects
 
-### **[TIOCS Main Site](https://github.com/conceptual-studies/tiocs-io)**
-[![Deploy](https://github.com/conceptual-studies/tiocs-io/actions/workflows/publish.yml/badge.svg)](https://github.com/conceptual-studies/tiocs-io/actions)
+### **[TIOCS Main Site](https://tiocs.io)**
 The primary research platform featuring our comprehensive knowledge base, including the Stratum (foundational knowledge) and Praxis (active theories) sections.
 
-### **[Daniel Grey Blog](https://github.com/conceptual-studies/daniel-grey-io)**
+### **[Daniel Grey Blog](https://daniel-grey.io)**
 Personal philosophical reflections exploring artificial intelligence, complexity, uncertainty, and quantum physics through thoughtful essays and musings.
-
-### **[TIOCS Theme](https://github.com/conceptual-studies/tiocs-theme)**
-Art Deco inspired academic theme for MkDocs Material, featuring warm earth tones and classical typography optimized for extended reading.
 
 ## 📖 Featured Thinkers & Sources
 
